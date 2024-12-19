@@ -1,0 +1,1 @@
+Developed a user-friendly quiz application using HTML, CSS, and JavaScript. The project includes an admin page for creating quizzes and managing scores, which are securely stored in local storage. Users can take the quizzes through a dedicated student interface, ensuring a seamless experience for both administrators and participants.
